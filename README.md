@@ -1,1 +1,1 @@
-# rwth-aachen
+# jupyter-connection
